@@ -17,7 +17,7 @@ I am a software engineer driven by a passion for building scalable applications 
 
 ### Frontend
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=git,vue,tailwind,html,css,js,figma" />
   </a>
 </p>
@@ -25,7 +25,7 @@ I am a software engineer driven by a passion for building scalable applications 
 ### Backend 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="#">
     <img src="https://skillicons.dev/icons?i=nodejs,mysql,py,docker" />
   </a>
 </p>
