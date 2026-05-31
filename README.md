@@ -1,8 +1,6 @@
 
 # Hi, I'm Teloxa 👋
 
-Frontend Developer | Vue.js · JavaScript · Python · PostgreSQL | Interested in Data Analysis
-
 ### What I bring
 
 **Root-cause, not band-aids** — I isolate bugs at the source, decompose complex problems into manageable pieces, and leave systems better than I found them.
