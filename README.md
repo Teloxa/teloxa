@@ -1,17 +1,20 @@
 
 # Hi, I'm Teloxa 👋
 
-## 🚀 About Me
+Frontend Developer | Vue.js · JavaScript · Python · PostgreSQL | Interested in Data Analysis
 
-I am a software engineer driven by a passion for building scalable applications and growing continuously as a technical professional. I adapt rapidly to new tech stacks and shifting team dynamics, maintaining high performance under pressure without losing focus.
+### What I bring
 
-### 🧠 Core Strengths & Mindset
-* **Methodical Problem Solver:** I excel at isolating complex bugs, performing root-cause analysis, and breaking down monolithic problems into manageable solutions.
-* **Agile & Collaborative:** Experienced working under the **SCRUM methodology**, which has honed my structured communication, prioritization, and team-syncing abilities.
-* **Engineering Excellence:** I don't just write code that works; I am deeply invested in **Clean Code practices, design patterns, and software architecture** to build maintainable, enterprise-ready systems.
+**Root-cause, not band-aids** — I isolate bugs at the source, decompose complex problems into manageable pieces, and leave systems better than I found them.
 
-### 🇺🇸 Workplace Eligibility
-* **US Legal Authorization:** I am a **US Permanent Resident (Green Card holder)**, fully authorized to work in the United States without requiring visa sponsorship. I am looking for opportunities to contribute to US-based engineering teams.
+**Scrum-native collaboration** — Structured communication, clear prioritization, and reliable team sync — built from real sprint cycles, not just theory.
+
+**Architecture-minded engineering** — Code that works is a floor, not a ceiling. I care about design patterns, maintainability, and systems that can grow without falling apart.
+
+
+
+### 🇺🇸 Work authorization
+**US Permanent Resident (Green Card)** — fully authorized, no visa sponsorship needed.
 
 ##  Tech Stack
 
