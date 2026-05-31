@@ -13,12 +13,20 @@ I am a software engineer driven by a passion for building scalable applications 
 ### 🇺🇸 Workplace Eligibility
 * **US Legal Authorization:** I am a **US Permanent Resident (Green Card holder)**, fully authorized to work in the United States without requiring visa sponsorship. I am looking for opportunities to contribute to US-based engineering teams.
 
-###  Tech Stack
+##  Tech Stack
+
+### Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vue,tailwind,html,css,js,figma" />
+  </a>
+</p>
+
+### Backend 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vue,react,nodejs,html,css,js,figma,docker" />
-    
+    <img src="https://skillicons.dev/icons?i=nodejs,mysql,py,docker" />
   </a>
 </p>
 
