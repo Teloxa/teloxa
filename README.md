@@ -19,7 +19,7 @@
 ### Frontend
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,vue,tailwind,html,css,js,figma" />
+    <img src="https://skillicons.dev/icons?i=vue,tailwind,html,css,js,figma" />
   </a>
 </p>
 
