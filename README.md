@@ -16,10 +16,17 @@
 
 ##  Tech Stack
 
+### Languages 
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=js,python,cpp,c" />
+  </a>
+</p>
+
 ### Frontend
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=vue,tailwind,html,css,js,figma" />
+    <img src="https://skillicons.dev/icons?i=react,vue,tailwind,html,css,figma" />
   </a>
 </p>
 
@@ -27,9 +34,18 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=nodejs,mysql,py,docker" />
+    <img src="https://skillicons.dev/icons?i=nodejs,py,docker" />
   </a>
 </p>
+
+### Databases & Tools 
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,postman" />
+  </a>
+</p>
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=teloxa&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
