@@ -19,7 +19,7 @@
 ### Languages 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,python,cpp,c" />
+    <img src="https://skillicons.dev/icons?i=js,python,ts,cpp," />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=nodejs,py,docker" />
+    <img src="https://skillicons.dev/icons?i=nodejs,docker" />
   </a>
 </p>
 
