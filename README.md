@@ -30,21 +30,15 @@
   </a>
 </p>
 
-### Backend 
+### Backend & Tools
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=nodejs,docker" />
+    <img src="https://skillicons.dev/icons?i=nodejs,docker,mysql,mongodb,postgres,postman" />
   </a>
 </p>
 
-### Databases & Tools 
 
-<p align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,postman" />
-  </a>
-</p>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=teloxa&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
