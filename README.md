@@ -38,8 +38,9 @@
   </a>
 </p>
 
-
-
-
+<br>
+<div align="center">
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=teloxa&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
+</div>
