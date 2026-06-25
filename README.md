@@ -1,5 +1,5 @@
 
-# Hi, I'm Teloxa 👋
+# Hi, I'm Teloxa.
 
 ### What I bring
 
