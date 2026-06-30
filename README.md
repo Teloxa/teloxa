@@ -1,18 +1,21 @@
 
 # Hi, I'm Teloxa 👋
 
-### What I bring
-
-**Root-cause, not band-aids** — I isolate bugs at the source, decompose complex problems into manageable pieces, and leave systems better than I found them.
-
-**Scrum-native collaboration** — Structured communication, clear prioritization, and reliable team sync — built from real sprint cycles, not just theory.
-
-**Architecture-minded engineering** — Code that works is a floor, not a ceiling. I care about design patterns, maintainability, and systems that can grow without falling apart.
+Computer Systems Engineering student (final semester) building production-grade 
+software with an emphasis on maintainability over quick fixes.
 
 
+### 🔍 How I work
+- **Debug at the source** — I trace issues to root cause instead of patching symptoms. 
+  Example: [link a un repo/PR donde se vea esto]
+- **Ship in sprints** — Comfortable in Scrum environments: standups, backlog grooming, 
+  story pointing, retros. Worked across [N] sprint cycles in [contexto: trabajo, 
+  proyecto universitario, freelance].
+- **Design before I build** — I default to thinking in patterns and trade-offs 
+  (SOLID, separation of concerns) before writing code that's hard to extend later.
 
 ### 🇺🇸 Work authorization
-**US Permanent Resident (Green Card)** — fully authorized, no visa sponsorship needed.
+US Permanent Resident (Green Card) — fully authorized, no visa sponsorship needed.
 
 ##  Tech Stack
 
