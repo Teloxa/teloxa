@@ -14,7 +14,7 @@ software with an emphasis on maintainability over quick fixes.
 - **Design before I build** — I default to thinking in patterns and trade-offs 
   (SOLID, separation of concerns) before writing code that's hard to extend later.
 
-### 🇺🇸 Work authorization
+### Work authorization
 US Permanent Resident (Green Card) — fully authorized, no visa sponsorship needed.
 
 ##  Tech Stack
