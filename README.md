@@ -5,7 +5,7 @@ Computer Systems Engineering student (final semester) building production-grade
 software with an emphasis on maintainability over quick fixes.
 
 
-### 🔍 How I work
+### 🔍 How I work.
 - **Debug at the source** — I trace issues to root cause instead of patching symptoms. 
   Example: [link a un repo/PR donde se vea esto]
 - **Ship in sprints** — Comfortable in Scrum environments: standups, backlog grooming, 
