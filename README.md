@@ -1,5 +1,7 @@
-<p href="https://teloxa.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img src="/ss_presentation.JPG" alt="Presentation" />
+<p align="center">
+  <a href="https://teloxa.vercel.app/">
+    <img src="ss_presentation.JPG" alt="Teloxa — project preview" width="80%"/>
+  </a>
 </p>
 
 # Hi, I'm Teloxa 👋
