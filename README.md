@@ -1,5 +1,6 @@
-[![Presentation](/ss_presentation.JPG)](https://teloxa.vercel.app/)
-> Click the image above to view my live portfolio.
+<a href="https://teloxa.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <img src="/ss_presentation.JPG" alt="Presentation" />
+</a>
 
 # Hi, I'm Teloxa 👋
 
