@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://teloxa.vercel.app/">
-    <img src="ss_presentation.JPG" alt="Teloxa — project preview" width="80%"/>
+    <img src="ss_presentation.JPG" alt="Teloxa — project preview" width="100%"/>
   </a>
 </p>
 
