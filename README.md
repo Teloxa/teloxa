@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://teloxa.vercel.app/">
-    <img src="ss_presentation.JPG" alt="Teloxa — project preview" width="100%"/>
-  </a>
-</p>
+
 
 # Hi, I'm Teloxa 👋
 
@@ -46,8 +42,17 @@ US Permanent Resident (Green Card) — fully authorized, no visa sponsorship nee
 </p>
 
 <br>
+<p align="center">
+  <a href="https://teloxa.vercel.app/">
+    <img src="ss_presentation.JPG" alt="Teloxa — project preview" width="100%"/>
+  </a>
+</p>
+
+<br>
+
+
+
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=teloxa&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
-
 </div>
