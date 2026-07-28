@@ -1,9 +1,10 @@
+[![Presentation](/ss_presentation.JPG)](https://teloxa.vercel.app/)
+> Click the image above to view my live portfolio.
 
 # Hi, I'm Teloxa 👋
 
 Computer Systems Engineering student (final semester) building production-grade 
 software with an emphasis on maintainability over quick fixes.
-
 
 ### 🔍 How I work.
 - **Debug at the source** — I trace issues to root cause instead of patching symptoms. 
