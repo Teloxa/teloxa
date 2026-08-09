@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Teloxa 👋
+# Hi, I'm Teloxa 
 
 Computer Systems Engineering student (final semester) building production-grade 
 software with an emphasis on maintainability over quick fixes.
