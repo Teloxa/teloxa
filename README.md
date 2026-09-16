@@ -7,10 +7,8 @@ software with an emphasis on maintainability over quick fixes.
 
 ### 🔍 How I work.
 - **Debug at the source** — I trace issues to root cause instead of patching symptoms. 
-  Example: [link a un repo/PR donde se vea esto]
 - **Ship in sprints** — Comfortable in Scrum environments: standups, backlog grooming, 
-  story pointing, retros. Worked across [N] sprint cycles in [contexto: trabajo, 
-  proyecto universitario, freelance].
+  story pointing, retros.
 - **Design before I build** — I default to thinking in patterns and trade-offs 
   (SOLID, separation of concerns) before writing code that's hard to extend later.
 
