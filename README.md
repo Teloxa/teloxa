@@ -2,18 +2,13 @@
 
 # Hi, I'm Teloxa 
 
-Computer Systems Engineering student (final semester) building production-grade 
-software with an emphasis on maintainability over quick fixes.
+Computer Systems Engineering student building software with a focus on 
+maintainability, clear architecture, and solving real problems.
 
 ### 🔍 How I work.
-- **Debug at the source** — I trace issues to root cause instead of patching symptoms. 
-- **Ship in sprints** — Comfortable in Scrum environments: standups, backlog grooming, 
-  story pointing, retros.
-- **Design before I build** — I default to thinking in patterns and trade-offs 
-  (SOLID, separation of concerns) before writing code that's hard to extend later.
-
-### Work authorization
-US Permanent Resident (Green Card) — fully authorized, no visa sponsorship needed.
+- **Debug at the source** — I trace issues to root cause instead of patching symptoms.
+- **Ship in sprints** — Comfortable with Scrum: standups, backlog grooming, story pointing, retros.
+- **Design before I build** — I think in patterns and trade-offs (SOLID, separation of concerns) before writing code that's hard to extend later.
 
 ##  Tech Stack
 
